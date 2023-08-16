@@ -10,7 +10,7 @@ organizar tripulações piratas do meu anime favorito, que é One Piece.
 | :sparkles: Nome        | **Organo**
 | :label: Tecnologias |   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 | 🎇: Bibliotecas | [React](https://react.dev/).
-| :rocket: URL         | [Projeto](https://meteora-rosy.vercel.app/)
+| :rocket: URL         | [Projeto](https://organo-nine-mu.vercel.app/)
 | :fire: Curso    | [Conheça o curso na Alura](https://cursos.alura.com.br/course/react-desenvolvendo-javascript)
   
 </div>
@@ -42,10 +42,13 @@ estudando e lidando bastante com o React.
 
 </div>
 
-**Versão Original**
+<h2>Versão Original</h2>
+
 ![Original](public/images/original.png)
 
-**Minha versão**
+
+<h2>Minha versão</h2>
+
 ![Alt text](public/images/minhaVersao.png)
 # 🙋‍♂️ Autor
 
