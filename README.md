@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+<div align="center">
+  
+# Organo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+O organo se propõe é ser uma aplicação para organizar equipes, grupos, clube e etc... No meu caso eu decidi fazer um para 
+organizar tripulações piratas do meu anime favorito, que é One Piece.
 
-## Available Scripts
+| :placard: Vitrine.Dev |  [Minha Vitrine Dev](https://cursos.alura.com.br/vitrinedev/marioapereirar)   |
+| -------------  | --- |
+| :sparkles: Nome        | **Organo**
+| :label: Tecnologias |   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+| 🎇: Bibliotecas | [React](https://react.dev/).
+| :rocket: URL         | [Projeto](https://meteora-rosy.vercel.app/)
+| :fire: Curso    | [Conheça o curso na Alura](https://cursos.alura.com.br/course/react-desenvolvendo-javascript)
+  
+</div>
 
-In the project directory, you can run:
+![](public/images/minhaVersao.png#vitrinedev)
 
-### `npm start`
+# 💪 Sobre o curso da Alura
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+O curso [React: desenvolvendo com JavaScript](https://cursos.alura.com.br/course/react-desenvolvendo-javascript) é um curso para iniciantes no React, acho que seria uma boa primeira
+experiência para qualquer um. E as aulas em dívidas em módulos que ensinavam desde de como instalar a framework do React
+na sua máquina até como por funções e dinâmica nos componentes da página web. E as aulas foram instruídas pelo [Vinícios Neves](https://www.linkedin.com/in/vinny-neves/) com o auxílio do [Paulo Silveira](https://www.linkedin.com/in/paulosilveira/).
+## Objetivo
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+O objetivo era criar uma aplicação que primeiro teria um formulário de cadastro de colaborador, membros ou no meu caso de
+piratas, e a partir das informações cadastradas criar um card do membro em questão. A segunda parte foi criar as seções
+onde seriam exibidos estes cards, cada uma com sua cor para diferenciar os grupos ou equipes.
+E por fim foi feita a parte de renderizar o card na tela e separar ele na seção correta a qual equipe ele pertencia.
 
-### `npm test`
+# 🤯 Minha experiência
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Essa foi a minha primeira experiência estudando e lidando com React, e para uma primeira vez eu achei bem tranquila. Tive
+certas dificuldades em relação principalmente a parte passar uma informação para o componente usando as props, mas nada
+que me deixasse travado por muito tempo no mesmo lugar. Eu tive uma experiência bem agradável, e espero continuar
+estudando e lidando bastante com o React.
+## ⭐ Representação do projeto
 
-### `npm run build`
+<div align="center">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+</div>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Versão Original**
+![Original](public/images/original.png)
 
-### `npm run eject`
+**Minha versão**
+![Alt text](public/images/minhaVersao.png)
+# 🙋‍♂️ Autor
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+[Mário Anthony Pereira Rocha](https://portfolio-rust-delta-33.vercel.app/)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

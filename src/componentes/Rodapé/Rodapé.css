@@ -1,0 +1,18 @@
+.rodape {
+    align-items: center;
+    background-color: #000000;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-around;
+    padding: 32px 0;
+}
+
+.links {
+    display: flex;
+    justify-content: space-between;
+}
+
+.links a {
+    cursor: pointer;
+    margin-left: 32px;
+}
